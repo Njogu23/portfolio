@@ -22,20 +22,20 @@
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/njogu23" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="George Njogu's LinkedIn" /></a> 
+  <a href="https://www.linkedin.com/in/george-njogu-896523175/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="George Njogu's LinkedIn" /></a> 
   <span>&nbsp;</span>
   <!-- Twitter -->
-  <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="George Njogu's Twitter" /></a> 
+  <a href="https://twitter.com/ShakkaZul" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="George Njogu's Twitter" /></a> 
   <span>&nbsp;</span>
-  <!-- Stack overflow -->
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="George Njogu's Stack Overflow" /></a> 
+  <!-- Stack overflow
+
 
   <!-- Other badges -->
   <!-- 
   <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="George Njogu's Stack Overflow" /></a>  -->
-</p>
+<!-- </p>
 
-<br/>
+<br/> --> 
 
 
 <!-- 
@@ -47,15 +47,15 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm a **Full-Stack Softare Developer**
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+<!-- 📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
 
-📄 Know about my experiences [through my CV](about/resume.md)
+📄 Know about my experiences [through my CV](about/resume.md) -->
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
+<!-- 🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **** -->
 
 ### My work
 
@@ -64,13 +64,13 @@
 🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
 
 <!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
+<!-- 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
 
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta) -->
 
 ### Interested ?
 
-<!-- 📫 Reach me on **jente@elewa.ke** -->
+📫 Reach me on **https://twitter.com/ShakkaZul**
 
 <br />
 
@@ -82,18 +82,18 @@
 <h1>My experience</h1>
 
 <!-- EXPERIENCE I -->
-<h2 align="left">Project Kujali</h2>
+<!-- <h2 align="left">Project Kujali</h2>
 
 <p align="right"><b>2023</b></p>
 
 <p>
   Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
-</p>
-<p>
+</p> -->
+<!-- <p> -->
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
+  <!-- I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
 </p>
-<br/>
+<br/> -->
 
 <!-- Link in this table your actual contributions -->
 ### My contributions
