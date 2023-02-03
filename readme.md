@@ -13,11 +13,11 @@
 <h1 align="center">Hi 👋, I'm George Njogu</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">An Alumni of Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njogu23" alt="njogu23" /></a> </p>
+<p align="left"> <a href="https://github.com/njogu23/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njogu23" alt="njogu23" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
